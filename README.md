@@ -29,3 +29,7 @@ http://universaldependencies.org/conll18/timeline.html
 * Week 12 (14 Apr--20 Apr)
 * Week 13 (21 Apr--27 Apr)
 * Week 14 (28 Apr--3 May)
+
+## Cool docs
+
+* http://wiki.apertium.org/wiki/Udpipe
