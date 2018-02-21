@@ -32,4 +32,5 @@ http://universaldependencies.org/conll18/timeline.html
 
 ## Cool docs
 
-* http://wiki.apertium.org/wiki/Udpipe
+* http://wiki.apertium.org/wiki/Udpipe - get UDPipe and get it running
+* https://github.com/tensorflow/models/tree/master/research/syntaxnet — Syntaxnet docs
