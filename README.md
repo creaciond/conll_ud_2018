@@ -9,6 +9,12 @@
 * BiST MST
 * BiST Transition
 
+## Evaluation
+
+* http://universaldependencies.org/conll18/evaluation.html
+
+
+
 ## Timeline
 
 http://universaldependencies.org/conll18/timeline.html
